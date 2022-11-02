@@ -1,7 +1,7 @@
 {
-    "name": "laravel-shift/blueprint",
+    "name": "tidakdijual/blueprint",
     "type": "library",
-    "description": "An expressive, human readable code generation tool.",
+    "description": "An expressive, human readable code generation tool. Based on laravel shift blueprint.",
     "keywords": [
         "framework",
         "laravel"
